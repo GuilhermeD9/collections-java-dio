@@ -4,8 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class SomaNumeros {
+    //atributo
     private List<Integer> numerosList;
 
+    //métodos
     public SomaNumeros() {
         this.numerosList = new ArrayList<>();
     }
@@ -48,6 +50,7 @@ public class SomaNumeros {
         System.out.println(numerosList);
     }
 
+    //main
     public static void main(String[] args) {
         // Criando uma instância da classe SomaNumeros
         SomaNumeros somaNumeros = new SomaNumeros();

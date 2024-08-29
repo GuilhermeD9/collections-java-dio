@@ -19,3 +19,5 @@ Podemos ordenar os elementos da lista do tipo Comparator usando o método Collec
 Método sort serve para ordenar de a-z, reserveorder faz o contrário.
 
 A list não necessita de quê seja dito a quantidade máxima de elementos
+
+Integer e Double tem o meto .compare, que compara dois parâmetros.
