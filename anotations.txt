@@ -21,3 +21,5 @@ Método sort serve para ordenar de a-z, reserveorder faz o contrário.
 A list não necessita de quê seja dito a quantidade máxima de elementos
 
 Integer e Double tem o meto .compare, que compara dois parâmetros.
+
+O método .contains verifica se há uma determinada palavra em uma comparação
