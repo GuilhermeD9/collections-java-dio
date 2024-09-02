@@ -1,4 +1,4 @@
-package map.OperacoesBasicas;
+package set.OperacoesBasicas;
 
 import java.util.Objects;
 
